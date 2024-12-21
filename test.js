@@ -1,2 +1,2 @@
 esto es una prueba
-otra prueba
+ver otra prueba
