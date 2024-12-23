@@ -7,8 +7,8 @@
 > [!IMPORTANT]
 > aqui tienes un consejo
 
-> [!warning]
+> [!WARNING]
 > aqui tienes un consejo
 
-> [!caution]
+> [!CAUTION]
 > aqui tienes un consejo
