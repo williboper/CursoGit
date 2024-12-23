@@ -4,7 +4,7 @@
 > [!TIP]
 > aqui tienes un consejo
 >
-> [!important]
+> [!IMPORTANT]
 > aqui tienes un consejo
 >
 > [!warning]
