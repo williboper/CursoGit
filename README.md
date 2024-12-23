@@ -1,6 +1,6 @@
 > [!NOTE]
 > aqui tienes una nota especial
->
+
 > [!TIP]
 > aqui tienes un consejo
 >
